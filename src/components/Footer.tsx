@@ -13,8 +13,9 @@ export function Footer() {
       <div className="max-w-7xl mx-auto px-4 py-12">
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <div>
-            <Link href="/">
-              <img src="/images/logo.png" alt="Casa Canadá" className="h-10 w-auto brightness-0 invert" />
+            <Link href="/" className="flex items-center gap-2">
+              <img src="/images/logo.png" alt="" className="h-10 w-auto brightness-0 invert" />
+              <span className="font-bold text-xl text-white">Casa <span className="text-red-400">Canadá</span></span>
             </Link>
             <p className="text-sm text-gray-400">Conectando Brasil e Canadá desde 1997.</p>
           </div>
