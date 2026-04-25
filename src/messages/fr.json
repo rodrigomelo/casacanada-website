@@ -1,0 +1,91 @@
+{
+  "meta": {
+    "title": "Casa Canadá",
+    "description": "Échanges commerciaux et culturels entre le Brésil et le Canada depuis 1997"
+  },
+  "nav": {
+    "home": "Accueil",
+    "consular": "Services Consulaires",
+    "exchange": "Études",
+    "missions": "Missions Commerciales",
+    "events": "Événements",
+    "about": "À Propos",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Connecter le Brésil et le Canada",
+    "subtitle": "Depuis 1997, nous facilitons les échanges commerciaux, culturels et éducatifs entre les deux pays",
+    "cta": "Découvrir nos services"
+  },
+  "services": {
+    "title": "Nos Services",
+    "consular": {
+      "title": "Services Consulaires",
+      "description": "Visas de résidence temporaire, permis d'études et de travail. Accrédités par le Consulat Général du Canada depuis 29 ans."
+    },
+    "exchange": {
+      "title": "Études au Canada",
+      "description": "Programmes d'études au Canada — langues, cours libres, premier cycle et cycles supérieurs avec des institutions renommées."
+    },
+    "missions": {
+      "title": "Missions Commerciales",
+      "description": "Missions sectorielles en aviation, agriculture, biotechnologie, défense, éducation, automobile, environnement, santé et plus."
+    },
+    "events": {
+      "title": "Événements",
+      "description": "Coordination de la participation aux festivals, congrès et foires internationaux dans le cinéma, la mode, la technologie et plus."
+    }
+  },
+  "about_preview": {
+    "title": "À Propos",
+    "text": "Casa Canadá a été fondée en 1997 pour renforcer les échanges commerciaux et culturels entre le Brésil et le Canada.",
+    "cta": "En savoir plus"
+  },
+  "events_preview": {
+    "title": "Événements à Venir",
+    "none": "Aucun événement prévu pour le moment.",
+    "more": "Voir tous les événements"
+  },
+  "contact_cta": {
+    "title": "Contactez-nous",
+    "text": "Contactez-nous pour en savoir plus sur nos services.",
+    "button": "Nous contacter"
+  },
+  "contact": {
+    "title": "Contact",
+    "form": {
+      "name": "Nom",
+      "email": "Courriel",
+      "phone": "Téléphone",
+      "subject": "Sujet",
+      "message": "Message",
+      "send": "Envoyer",
+      "success": "Message envoyé avec succès !",
+      "error": "Erreur lors de l'envoi. Veuillez réessayer.",
+      "subjects": {
+        "visa": "Services Consulaires",
+        "exchange": "Études",
+        "mission": "Mission Commerciale",
+        "event": "Événements",
+        "translation": "Traduction",
+        "other": "Autre"
+      },
+      "required": "Champ obligatoire",
+      "invalid_email": "Courriel invalide"
+    },
+    "info": {
+      "company": "Casa Canadá S/C Ltda.",
+      "hours": "Lundi au vendredi, de 9h à 17h, sauf jours fériés."
+    }
+  },
+  "footer": {
+    "rights": "Tous droits réservés.",
+    "services": "Services",
+    "company": "Entreprise"
+  },
+  "not_found": {
+    "title": "Page non trouvée",
+    "description": "La page que vous recherchez n'existe pas.",
+    "back": "Retour à l'accueil"
+  }
+}

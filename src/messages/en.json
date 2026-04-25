@@ -1,0 +1,91 @@
+{
+  "meta": {
+    "title": "Casa Canadá",
+    "description": "Commercial and cultural exchange between Brazil and Canada since 1997"
+  },
+  "nav": {
+    "home": "Home",
+    "consular": "Visa Services",
+    "exchange": "Study Abroad",
+    "missions": "Trade Missions",
+    "events": "Events",
+    "about": "About Us",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Connecting Brazil and Canada",
+    "subtitle": "Since 1997 facilitating commercial, cultural and educational exchange between both countries",
+    "cta": "Explore our services"
+  },
+  "services": {
+    "title": "Our Services",
+    "consular": {
+      "title": "Visa Services",
+      "description": "Temporary resident visas, study and work permits. Accredited by the Canadian Consulate General for 29 years."
+    },
+    "exchange": {
+      "title": "Study Abroad",
+      "description": "Study programs in Canada — languages, courses, undergraduate and graduate programs with renowned institutions."
+    },
+    "missions": {
+      "title": "Trade Missions",
+      "description": "Sector missions in aviation, agriculture, biotechnology, defense, education, automotive, environment, health and more."
+    },
+    "events": {
+      "title": "Events",
+      "description": "Coordination of participation in international festivals, congresses and fairs in film, fashion, technology and more."
+    }
+  },
+  "about_preview": {
+    "title": "About Us",
+    "text": "Casa Canadá was founded in 1997 to strengthen commercial and cultural exchange between Brazil and Canada.",
+    "cta": "Learn more"
+  },
+  "events_preview": {
+    "title": "Upcoming Events",
+    "none": "No events scheduled at this time.",
+    "more": "View all events"
+  },
+  "contact_cta": {
+    "title": "Get in Touch",
+    "text": "Contact us to learn more about our services.",
+    "button": "Contact us"
+  },
+  "contact": {
+    "title": "Contact",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone",
+      "subject": "Subject",
+      "message": "Message",
+      "send": "Send",
+      "success": "Message sent successfully!",
+      "error": "Error sending message. Please try again.",
+      "subjects": {
+        "visa": "Visa Services",
+        "exchange": "Study Abroad",
+        "mission": "Trade Mission",
+        "event": "Events",
+        "translation": "Translation",
+        "other": "Other"
+      },
+      "required": "Required field",
+      "invalid_email": "Invalid email"
+    },
+    "info": {
+      "company": "Casa Canadá S/C Ltda.",
+      "hours": "Monday to Friday, 9am to 5pm, excluding holidays."
+    }
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "services": "Services",
+    "company": "Company"
+  },
+  "not_found": {
+    "title": "Page not found",
+    "description": "The page you are looking for does not exist.",
+    "back": "Back to home"
+  }
+}

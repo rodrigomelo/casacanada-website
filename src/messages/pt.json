@@ -1,0 +1,91 @@
+{
+  "meta": {
+    "title": "Casa Canadá",
+    "description": "Intercâmbio comercial e cultural entre Brasil e Canadá desde 1997"
+  },
+  "nav": {
+    "home": "Início",
+    "consular": "Serviço Consular",
+    "exchange": "Intercâmbio",
+    "missions": "Missões Comerciais",
+    "events": "Eventos",
+    "about": "Sobre Nós",
+    "contact": "Contato"
+  },
+  "hero": {
+    "title": "Conectando Brasil e Canadá",
+    "subtitle": "Desde 1997 facilitando o intercâmbio comercial, cultural e educacional entre os dois países",
+    "cta": "Conheça nossos serviços"
+  },
+  "services": {
+    "title": "Nossos Serviços",
+    "consular": {
+      "title": "Serviço Consular",
+      "description": "Vistos de residência temporária, permissão de estudos e trabalho. Credenciados pelo Consulado Geral do Canadá há 29 anos."
+    },
+    "exchange": {
+      "title": "Intercâmbio",
+      "description": "Programas de estudos no Canadá — idiomas, cursos livres, graduação e pós-graduação em parceria com instituições renomadas."
+    },
+    "missions": {
+      "title": "Missões Comerciais",
+      "description": "Missões setoriais em aviação, agricultura, biotecnologia, defesa, educação, automotiva, meio-ambiente, saúde e mais."
+    },
+    "events": {
+      "title": "Eventos",
+      "description": "Coordenação de participação em festivais, congressos e feiras internacionais nas áreas de cinema, moda, tecnologia e mais."
+    }
+  },
+  "about_preview": {
+    "title": "Sobre Nós",
+    "text": "A Casa Canadá foi criada em 1997 com o objetivo de incrementar o intercâmbio comercial e cultural entre o Brasil e o Canadá.",
+    "cta": "Saiba mais"
+  },
+  "events_preview": {
+    "title": "Próximos Eventos",
+    "none": "Nenhum evento programado no momento.",
+    "more": "Ver todos os eventos"
+  },
+  "contact_cta": {
+    "title": "Fale Conosco",
+    "text": "Entre em contato para saber mais sobre nossos serviços.",
+    "button": "Entrar em contato"
+  },
+  "contact": {
+    "title": "Contato",
+    "form": {
+      "name": "Nome",
+      "email": "E-mail",
+      "phone": "Telefone",
+      "subject": "Assunto",
+      "message": "Mensagem",
+      "send": "Enviar",
+      "success": "Mensagem enviada com sucesso!",
+      "error": "Erro ao enviar. Tente novamente.",
+      "subjects": {
+        "visa": "Visto Consular",
+        "exchange": "Intercâmbio",
+        "mission": "Missão Comercial",
+        "event": "Eventos",
+        "translation": "Tradução",
+        "other": "Outro"
+      },
+      "required": "Campo obrigatório",
+      "invalid_email": "E-mail inválido"
+    },
+    "info": {
+      "company": "Casa Canadá S/C Ltda.",
+      "hours": "Segunda a sexta-feira, das 9h às 17h, exceto feriados."
+    }
+  },
+  "footer": {
+    "rights": "Todos os direitos reservados.",
+    "services": "Serviços",
+    "company": "Empresa"
+  },
+  "not_found": {
+    "title": "Página não encontrada",
+    "description": "A página que você está procurando não existe.",
+    "back": "Voltar ao início"
+  }
+}
