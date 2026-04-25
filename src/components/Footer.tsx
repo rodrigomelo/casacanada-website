@@ -14,7 +14,7 @@ export function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-10">
           <div>
             <Link href="/" className="flex items-center gap-2 mb-4">
-              <img src="/images/logo.png" alt="" className="h-9 w-auto brightness-0 invert" />
+              <img src="/images/logo.png" alt="" className="h-9 w-auto " />
               <span className="font-bold text-xl text-white">Casa <span className="text-red-500">Canadá</span></span>
             </Link>
             <p className="text-sm text-gray-500 leading-relaxed">Conectando Brasil e Canadá desde 1997. Serviços consulares, intercâmbio, missões comerciais e eventos.</p>
