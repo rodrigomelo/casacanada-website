@@ -32,7 +32,7 @@ export function Header() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 flex items-center justify-between h-16">
         <Link href="/" className="flex items-center gap-2.5 shrink-0">
           <img src="/images/logo.png" alt="" className="h-9 w-auto" />
-          <span className="font-bold text-lg text-gray-900 hidden sm:inline">Casa <span className="text-red-600">Canadá</span></span>
+          <span className="font-bold text-lg text-gray-900 ">Casa <span className="text-red-600">Canadá</span></span>
         </Link>
 
         {/* Desktop nav */}
