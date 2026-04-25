@@ -52,9 +52,8 @@ export function Header() {
       </div>
       <header className="sticky top-0 z-50 bg-white border-b border-gray-100 shadow-sm">
         <div className="max-w-7xl mx-auto px-4 flex items-center justify-between h-16">
-          <Link href="/" className="flex items-center gap-3">
-            <div className="w-10 h-10 bg-red-600 rounded-lg flex items-center justify-center text-white font-bold text-lg">CC</div>
-            <span className="font-bold text-xl text-gray-900">Casa <span className="text-red-600">Canadá</span></span>
+          <Link href="/">
+            <img src="/images/logo.png" alt="Casa Canadá" className="h-10 w-auto" />
           </Link>
           <nav className="hidden lg:flex items-center gap-1">
             {navLinks.map((link) => (
